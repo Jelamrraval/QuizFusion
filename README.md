@@ -2,9 +2,15 @@
 
 ## About the Project
 
-QuizFusion is a simple and interactive MCQ (Multiple Choice Question) quiz website developed to make learning easier and more enjoyable. The platform allows users to log in, attempt quizzes, receive instant results, and improve their knowledge through regular practice. It is designed with a clean, responsive interface so that it works smoothly on desktops, tablets, and mobile devices.
+QuizFusion is a simple and interactive MCQ (Multiple Choice Question) quiz platform currently being developed to make learning easier and more enjoyable. It helps students practice quizzes, receive instant results, and improve their knowledge through regular practice.
 
-The main goal of QuizFusion is to provide students with an easy-to-use platform where they can test their knowledge, learn from their mistakes, and build confidence through quizzes.
+The platform is especially useful for **Diploma Engineering students** preparing for **DDCET**, as well as anyone who wants to strengthen their concepts through MCQ-based learning. It is designed with a clean and responsive interface that works smoothly on desktops, tablets, and mobile devices.
+
+## 🚧 Project Status
+
+QuizFusion is currently under development.
+
+The repository currently contains the project overview and documentation. The source code and new features will be uploaded regularly as development progresses.
 
 ## Features
 
@@ -18,7 +24,6 @@ The main goal of QuizFusion is to provide students with an easy-to-use platform 
 * Clean and User-Friendly Interface
 * Fast and Easy Navigation
 * Interactive Learning Experience
-
 
 ## Technologies Used
 
@@ -38,32 +43,35 @@ The main goal of QuizFusion is to provide students with an easy-to-use platform 
 7. View your score and results instantly.
 8. Practice again to improve your performance.
 
-
 ## Benefits
 
 * Helps students prepare for exams.
+* Useful for Diploma Engineering students preparing for DDCET.
 * Makes learning more interesting through quizzes.
 * Provides instant feedback on performance.
 * Encourages regular practice.
 * Easy to access from any device with a web browser.
 
-
 ## Future Improvements
 
 * AI-generated quizzes
 * Timer for each quiz
-* Leaderboard and rankings
+* Leaderboard and Rankings
 * Dark Mode
-* Multiple quiz categories
-* Difficulty levels
-* User profile and progress tracking
-* Admin dashboard for managing quizzes
-* Certificate after quiz completion
+* Multiple Quiz Categories
+* Difficulty Levels
+* User Profile and Progress Tracking
+* Admin Dashboard for Managing Quizzes
+* Certificate After Quiz Completion
 
-
-
-## Developer
+## 👩‍💻 Developer
 
 **Jelam Raval**
 
-QuizFusion was created as an educational web development project to provide a simple, interactive, and enjoyable learning experience for students through MCQ-based quizzes.
+Computer Engineering Diploma Student
+
+Passionate about Web Development and creating educational platforms that make learning simple, interactive, and accessible.
+
+⭐ Thank you for visiting this repository.
+
+Your feedback and suggestions are always welcome!
