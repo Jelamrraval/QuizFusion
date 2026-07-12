@@ -74,4 +74,4 @@ Passionate about Web Development and creating educational platforms that make le
 
 ## ⭐ Thank you for visiting this repository.
 
-Your feedback and suggestions are always welcome!
+**Your feedback and suggestions are always welcome!**
