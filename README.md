@@ -72,6 +72,6 @@ Computer Engineering Diploma Student
 
 Passionate about Web Development and creating educational platforms that make learning simple, interactive, and accessible.
 
-⭐ Thank you for visiting this repository.
+##⭐ Thank you for visiting this repository.
 
 Your feedback and suggestions are always welcome!
