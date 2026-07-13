@@ -31,18 +31,6 @@ It is especially helpful for **Diploma Engineering students preparing for DDCET*
 
 ---
 
-## 🖼️ Project Preview
-
-> *(Add screenshots here)*
-
-```
-📷 Home Page
-📷 Login Page
-📷 Quiz Screen
-📷 Result Page
-```
-
----
 
 ## 🛠️ Technologies Used
 
@@ -66,9 +54,6 @@ git clone https://github.com/JelamRRaval/QuizFusion.git
 ### Open the Project
 
 Simply open the project folder and run:
-
-```
-index.html
 ```
 
 No installation or additional dependencies are required.
