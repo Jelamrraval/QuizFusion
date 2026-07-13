@@ -1,155 +1,130 @@
-# 🎓 QuizFusion
+# 📚 QuizMaster Lite
 
 <p align="center">
-  <b>Practice Smarter • Learn Faster • Score Better</b><br>
-  An interactive MCQ Quiz Platform built using HTML, CSS, JavaScript, and Bootstrap.
+  <b>Turn Your Notes into Smart Quizzes</b><br>
+  Upload a PDF or TXT file and instantly generate interactive multiple-choice quizzes—completely in your browser.
 </p>
 
 ---
 
 ## 📖 About the Project
 
-**QuizFusion** is a modern and responsive MCQ (Multiple Choice Question) quiz platform designed to make learning simple, interactive, and engaging.
+**QuizMaster Lite** is a lightweight, browser-based quiz application that automatically generates multiple-choice questions from your study material.
 
-The platform allows users to log in securely, attempt quizzes, receive instant scores, review correct and incorrect answers, and improve their knowledge through continuous practice.
+Users can upload a **TXT** or **PDF** file or simply paste text into the editor. The application extracts important keywords and creates interactive MCQs instantly—without using AI APIs or requiring a backend server.
 
-It is especially helpful for **Diploma Engineering students preparing for DDCET**, as well as anyone looking to strengthen their concepts using quiz-based learning.
+The entire project is built in a **single HTML file**, making it simple to use, easy to share, and perfect for learning JavaScript fundamentals.
 
 ---
 
 ## ✨ Features
 
-- 🔐 User Login Authentication
-- 📝 Interactive Multiple Choice Quizzes
-- ⚡ Instant Score Calculation
-- 📊 Result Summary
-- ✅ Correct & Incorrect Answer Review
-- 📱 Fully Responsive Design
-- 🎨 Clean & User-Friendly Interface
-- 🚀 Fast Navigation
-- 📚 Interactive Learning Experience
+- 📄 Upload TXT files
+- 📑 Upload PDF files using PDF.js
+- 📝 Paste notes directly
+- ⚡ Automatic MCQ generation
+- 🎯 Interactive quiz interface
+- 📊 Live score tracking
+- 📈 Progress bar
+- ✅ Instant results
+- 📖 Review correct and incorrect answers
+- 📚 Quiz history
+- 💾 Local Storage support
+- 📱 Responsive notebook-inspired UI
+- 🌐 Works completely in the browser
+- 🚫 No backend or AI API required
 
 ---
-
 
 ## 🛠️ Technologies Used
 
-| Technology | Purpose |
-|------------|---------|
-| HTML5 | Structure |
-| CSS3 | Styling |
-| JavaScript | Quiz Logic |
-| Bootstrap 5 | Responsive UI |
-
----
-
-## 🚀 Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/JelamRRaval/QuizFusion.git
-```
-
-### Open the Project
-
-Simply open the project folder and run:
-```
-
-No installation or additional dependencies are required.
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+- PDF.js
 
 ---
 
 ## 📂 Project Structure
 
 ```
-QuizFusion
+QuizMaster-Lite/
 │
 ├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── images
-│   └── icons
 └── README.md
 ```
 
----
-
-## 🎯 How to Use
-
-1. Open the application.
-2. Login to your account.
-3. Select a quiz.
-4. Read each question carefully.
-5. Choose the correct answer.
-6. Submit the quiz.
-7. View your score instantly.
-8. Review your answers.
-9. Practice again to improve your performance.
+> **Note:** The entire application (HTML, CSS, and JavaScript) is contained in a single `index.html` file.
 
 ---
 
-## 🌟 Benefits
+## 🚀 How to Use
 
-- Helps students prepare for competitive exams.
-- Useful for DDCET preparation.
-- Makes learning fun and interactive.
-- Provides instant performance analysis.
-- Encourages regular practice.
-- Works on Desktop, Tablet, and Mobile devices.
+1. Download or clone the repository.
+2. Open `index.html` in your web browser.
+3. Upload a **TXT** or **PDF** file, or paste your notes.
+4. Click **Generate Quiz**.
+5. Answer the generated questions.
+6. View your score and review your answers.
+7. Check your quiz history anytime.
 
 ---
 
-## 🚀 Future Enhancements
+## 🎯 Key Functionalities
 
-- 🤖 AI Generated Quizzes
-- ⏱️ Quiz Timer
-- 🏆 Leaderboard
+- Automatic keyword extraction
+- Dynamic MCQ generation
+- Randomized answer options
+- Progress tracking
+- Score calculation
+- Answer review
+- Quiz history using Local Storage
+- PDF text extraction using PDF.js
+
+---
+
+## 🌟 Advantages
+
+- No installation required
+- No database needed
+- No login required
+- No internet required after the page loads
+- Lightweight and fast
+- Beginner-friendly
+- Easy to customize
+
+---
+
+## 🚀 Future Improvements
+
+- 🤖 AI-powered question generation
 - 🌙 Dark Mode
-- 📂 Multiple Quiz Categories
-- 🎯 Difficulty Levels
-- 👤 User Dashboard
-- 📈 Progress Tracking
-- 🛠️ Admin Panel
-- 📜 Quiz Completion Certificate
+- ⏱️ Quiz timer
+- 🏆 Leaderboard
+- 👤 User accounts
+- ☁️ Cloud synchronization
+- 📊 Performance analytics
+- 🎯 Difficulty levels
+- 📥 Export quiz results
+- 📜 Certificates
 
 ---
 
 ## 👩‍💻 Developer
 
-### Jelam Raval
+**Jelam Raval**
 
-**Computer Engineering Diploma Student**
+Computer Engineering Diploma Student
 
-💻 Passionate about
-
-- Web Development
-- JavaScript
-- Frontend Development
-- Educational Technology
-- Building Interactive Learning Platforms
-
----
-
-## 🤝 Contributing
-
-Contributions, suggestions, and feedback are always welcome.
-
-If you'd like to improve QuizFusion:
-
-1. Fork the repository
-2. Create a new branch
-3. Make your changes
-4. Submit a Pull Request
+Passionate about Web Development, JavaScript, and building educational applications that make learning simple and interactive.
 
 ---
 
 ## ⭐ Support
 
-If you found this project helpful, consider giving it a ⭐ on GitHub.
+If you found this project helpful, please consider giving it a **⭐ Star** on GitHub.
 
-It motivates me to build more useful educational projects.
+Your support motivates me to build more useful educational projects.
 
 ---
 
