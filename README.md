@@ -106,7 +106,6 @@ QuizMaster-Lite/
 - 📊 Performance analytics
 - 🎯 Difficulty levels
 - 📥 Export quiz results
-- 📜 Certificates
 
 ---
 
