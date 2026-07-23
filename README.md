@@ -1,4 +1,21 @@
+# 📚 QuizMaster Lite
 
+<p align="center">
+  <b>Turn Your Notes into Smart Quizzes</b><br>
+  Upload a PDF or TXT file and instantly generate interactive multiple-choice quizzes—completely in your browser.
+</p>
+
+---
+
+## 📖 About the Project
+
+**QuizMaster Lite** is a lightweight, browser-based quiz application that automatically generates multiple-choice questions from your study material.
+
+Users can upload a **TXT** or **PDF** file or simply paste text into the editor. The application extracts important keywords and creates interactive MCQs instantly—without using AI APIs or requiring a backend server.
+
+The entire project is built in a **single HTML file**, making it simple to use, easy to share, and perfect for learning JavaScript fundamentals.
+
+---
 
 ## ✨ Features
 
